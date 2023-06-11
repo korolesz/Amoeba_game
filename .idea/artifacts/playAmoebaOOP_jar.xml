@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="playAmoebaOOP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/playAmoebaOOP_jar</output-path>
+    <root id="archive" name="playAmoebaOOP.jar">
+      <element id="module-output" name="playAmoebaOOP" />
+    </root>
+  </artifact>
+</component>
