@@ -27,11 +27,11 @@ public class PcLogicImpl implements PcLogic {
          2.  - Ellenfélnél      4     azonos keresése
          3.  - Saját magánál    3     azonos egyik oldalról SEM ZÁRT keresése
          4.  - Ellenfélnél      3     azonos egyik oldalról SEM ZÁRT keresése
-         6.  - Saját magánál    3     azonos egyik oldalról ZÁRT keresése
-         10. - Saját magánál    2     azonos egyik oldalról ZÁRT keresése
-         12. - Saját magánál    1     karakter mellé rakni véletlenszerűen
-         14. - Ellenfélnél      1     karakter mellé rakni véletlenszerűen
-         15. - Véletlen szerű lépés a pálya közepe táján
+         5.  - Saját magánál    3     azonos egyik oldalról ZÁRT keresése
+         6. - Saját magánál    2     azonos egyik oldalról ZÁRT keresése
+         7. - Saját magánál    1     karakter mellé rakni véletlenszerűen
+         8. - Ellenfélnél      1     karakter mellé rakni véletlenszerűen
+         9. - Véletlen szerű lépés a pálya közepe táján
          */
 
         Coordinates stepCoordinate = null;
